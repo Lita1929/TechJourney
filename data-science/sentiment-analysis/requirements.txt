@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 matplotlib==3.10.0
 nltk==3.9.1
 pandas==2.2.3
@@ -6,3 +7,6 @@ Sastrawi==1.0.1
 scikit_learn==1.6.1
 tensorflow==2.17.1
 wordcloud==1.9.4
+=======
+
+>>>>>>> 30c8c5d99621bb8af154dbb8ccd97451d03858e1
