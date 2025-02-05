@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield
 Arecanut,1997,Whole Year ,Assam,73814,56708,2051.4,7024878.38,22882.34,0.796086957
 Arhar/Tur,1997,Kharif     ,Assam,6637,4685,2051.4,631643.29,2057.47,0.710434783
@@ -19688,3 +19689,6 @@ Wheat,1998,Rabi       ,Nagaland,1000,3000,1498,98800,290,3
 Maize,1997,Kharif     ,Jammu and Kashmir,310883,440900,1356.2,29586735.11,96373.73,1.285
 Rice,1997,Kharif     ,Jammu and Kashmir,275746,5488,1356.2,26242746.82,85481.26,0.016666667
 Wheat,1997,Rabi       ,Jammu and Kashmir,239344,392160,1356.2,22778368.48,74196.64,1.261818182
+=======
+
+>>>>>>> 21e8043ec537f6f36166a443aac0859463ddd6ff
