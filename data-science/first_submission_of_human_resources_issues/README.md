@@ -28,6 +28,7 @@ Data source: https://github.com/dicodingacademy/dicoding_dataset/tree/main/emplo
 Setup environment:
 Before starting the project, make sure you have a development environment ready to use, such as:
 Python Environment with libraries like Pandas, Numpy, Matplotlib, Scikit-learn, etc.
+
 Metabase for creating the dashboard.
 
 To set up Metabase locally using Docker, you can use the following command:
